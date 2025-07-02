@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './app.css'
 })
 export class App {
-  protected title = 'bootcamp-devjr-modulo8-book';
+  protected title = 'Livros S/A';
 }
